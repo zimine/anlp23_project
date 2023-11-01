@@ -12,5 +12,9 @@ Data and code for ANLP23 final project: Do LLMs distribute information uniformly
 The cookie-theft picture description task. See the data folder for access. 
 
 ## Current progress:
+| Model     | Progress                          |
+|-----------|-----------------------------------|
+| GPT-4(V)  | ![](https://geps.dev/progress/60) |
+| MiniGPT-4 | ![](https://geps.dev/progress/80) |
 
-![](https://geps.dev/progress/10)
+
