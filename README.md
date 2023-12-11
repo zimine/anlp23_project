@@ -4,8 +4,8 @@ Data and code for ANLP23 final project: Do LLMs distribute information uniformly
 
 ## Text prompt:
 | Model     | Prompt                                                                                                                                        |
-|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| GPT-4(V)  | Please tell me everything going on in this picture. <br> Please avoid repetition of generated responses. <br>  A slight variation is allowed. |
+|-----------|-----------------------------------------------------|
+| GPT-4(V)  | Please tell me everything going on in this picture. |
 | MiniGPT-4 | Please tell me everything going on in this picture.  
 
 ## Input image
@@ -14,7 +14,7 @@ The cookie-theft picture description task. See the data folder for access.
 ## Current progress:
 | Model     | Progress                          |
 |-----------|-----------------------------------|
-| GPT-4(V)  | ![](https://geps.dev/progress/60) |
-| MiniGPT-4 | ![](https://geps.dev/progress/80) |
+| GPT-4(V)  | ![](https://geps.dev/progress/100) |
+| MiniGPT-4 | ![](https://geps.dev/progress/100) |
 
 
